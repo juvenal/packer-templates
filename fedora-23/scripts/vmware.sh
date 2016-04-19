@@ -1,1 +1,1 @@
-yum install -y fuse-libs open-vm-tools
+dnf install -y fuse-libs open-vm-tools
